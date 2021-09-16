@@ -11,3 +11,10 @@ user2 = {
     'first_name': 'Angel',
     'last_name': 'Petersen',
 }
+
+user3 = {
+    'pk': 3,
+    'email': 'another@gmail.com',
+    'first_name': 'User',
+    'last_name': 'Petersen',
+}
